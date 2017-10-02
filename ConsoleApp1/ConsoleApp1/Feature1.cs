@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +17,7 @@ namespace ConsoleApp1
 
             return sum;
             // test change to feature 1
+            // adding conflict from GITHUB
         }
     }
 }
