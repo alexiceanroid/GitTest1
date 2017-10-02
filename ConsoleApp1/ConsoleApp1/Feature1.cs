@@ -15,6 +15,7 @@ namespace ConsoleApp1
             var sum = x1 + x2;
 
             return sum;
+            // test change to feature 1
         }
     }
 }
