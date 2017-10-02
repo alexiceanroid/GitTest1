@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +15,7 @@ namespace ConsoleApp1
             // code was addedin VS
             
             // code calling feature 1
-            
+            // code calling feature 3 (added in GITHUB)
         }
     }
 }
